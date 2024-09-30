@@ -20,7 +20,7 @@ const Home = () => {
 
         <button className="mt-5 md:md-10 text-white py02 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]">
           <a
-            href="https://drive.google.com/file/d/14xr3m58MRW6M5j_Ztd9ghAsrNjRKsGvY/view?usp=sharing"
+            href="https://drive.google.com/file/d/1AMuWaI6Xt1gDUOQqZOb_DKSM_7QO7Rdd/view?usp=sharing"
             target="_main"
           >
             Resume
