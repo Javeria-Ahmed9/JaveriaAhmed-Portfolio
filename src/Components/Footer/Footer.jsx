@@ -18,12 +18,12 @@ const Footer = () => {
 
         <ul className="text-sm md:text-xl">
           <li className="flex gap-1 items-center">
-            <MdOutlineEmail size={20} />
+            <MdOutlineEmail />
             jahmedkhan911@gmail.com
           </li>
           <li className="flex gap-1 items-center">
             <CiLinkedin />
-            linkedin.com/in/javeria-ahmed09/
+            linkedin.com/in/javeria-ahmed09
           </li>
           <li className="flex gap-1 items-center">
             <FaGithub />
@@ -32,6 +32,7 @@ const Footer = () => {
         </ul>
       </div>
       <div
+        id="text"
         className="flex border justify-around bg-[#465697]"
         style={{ color: "white", textAlign: "center" }}
       >

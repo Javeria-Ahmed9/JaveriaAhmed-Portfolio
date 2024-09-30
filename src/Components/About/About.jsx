@@ -45,7 +45,7 @@ const About = () => {
                         </a>
                       </h4>
                     </div>
-                    <div id="one">
+                    <div className="icon2" id="one">
                       {" "}
                       <FaLinkedin id="two" />
                       <h4 id="head">
