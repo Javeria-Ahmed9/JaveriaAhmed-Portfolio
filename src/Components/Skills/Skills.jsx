@@ -66,7 +66,7 @@ const Skills = () => {
                 marginLeft: "-6px",
               }}
             >
-              <p>Versel</p>
+              <p>Vercel</p>
             </h1>
           </span>
         </div>
