@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scroll-behavior: smooth;
+}
+#icon{
+
+  display: flex;
+}
+#one{
+ width: 50px;
+  margin-left: 44px;
+}
+
+#two{
+  height: 50px;
+  width: 50px;
+
+}
+#head{
+  text-align: center;
+  font-size: 12px;
+  color: rgb(143, 77, 234);
+}
+
+/* #Skills{
+  padding-top: 0px;
+} */
+
+#Projects{
+  padding-top: 0px;
+ 
+}
