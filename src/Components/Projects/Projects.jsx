@@ -16,6 +16,11 @@ const Projects = () => {
           coderef="https://github.com/Javeria-Ahmed9/ExpenseTracker-App.git"
         />
         <ProjectCard
+          title="Shopping Website"
+          demoref="https://shoppingwebsite3.netlify.app/"
+          coderef="https://github.com/Javeria-Ahmed9/Shopping-Website.git"
+        />
+        <ProjectCard
           title="Weather App"
           demoref="https://weather-app-three-steel-23.vercel.app/"
           coderef="https://github.com/Javeria-Ahmed9/WeatherApp.git"
